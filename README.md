@@ -1,0 +1,1 @@
+Visualización con un gráfico interactivo sobre la evolución del salario real en España.
